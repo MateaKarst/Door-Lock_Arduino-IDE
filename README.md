@@ -1,6 +1,4 @@
 # Door-Lock_Arduino-IDE
-
-## Project Overview
 The Locker Door project is an Arduino-based security system designed to control the opening and closing of a locker door via a password input using a keypad. It features a servo motor for physical locking/unlocking and an I2C LCD display for feedback and messages. The system is simple, yet effective, with security features such as password entry, error handling, and locking functionality.
 
 ## Components Used
